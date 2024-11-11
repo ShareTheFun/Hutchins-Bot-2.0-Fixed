@@ -1,16 +1,16 @@
 {
   "prefix": "!",
   "adminUIDs": [
-   "your uid"
+   "61550941044179"
   ],
   "moderatorUIDs": [
-    "your uid",
+    "61550941044179",
     "",
     ""
   ],
-  "botName": "bot name",
-  "ownerName": "Your name",
-  "facebookLink": "fb link",
+  "botName": "Luffy Bot",
+  "ownerName": "Jmlabaco",
+  "facebookLink": "https://www.facebook.com/profile.php?id=61550941044179",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
@@ -18,8 +18,8 @@
   "restartTime": 50,
   "FCA": "hut-chat-api",
   "loginpanel": {
-    "user": "your username in dashboard",
-    "password": "password your dashboard",
-    "passcode": "12345"
+    "user": "Jmlabaco",
+    "password": "Jmlabaco200805",
+    "passcode": "Jmlabaco200805"
   }
 }
